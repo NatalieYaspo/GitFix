@@ -21,7 +21,7 @@ So that I can debug or add new implimentation to their apps for the proposed Bou
 
 ## Installation
 
-URL: https://bughunter-khir.onrender.com/
+URL: https://gitfix-2i62.onrender.com/
 
 ## Usage
 
